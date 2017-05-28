@@ -1,6 +1,6 @@
 {
   "name": "@savvy-css/breakpoint-variables",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Breakpoint variables for Savvy CSS.",
   "main": "build/breakpoint-variables.css",
   "style": "build/breakpoint-variables.css",
